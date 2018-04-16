@@ -1,0 +1,13 @@
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\bin\Debug\AutomaticMigrationFalse.exe.config
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\bin\Debug\AutomaticMigrationFalse.exe
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\bin\Debug\AutomaticMigrationFalse.pdb
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\bin\Debug\EntityFramework.dll
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\bin\Debug\EntityFramework.SqlServer.dll
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\bin\Debug\EntityFramework.xml
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\bin\Debug\EntityFramework.SqlServer.xml
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\obj\Debug\AutomaticMigrationFalse.csprojResolveAssemblyReference.cache
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\obj\Debug\AutomaticMigrationFalse.csproj.CoreCompileInputs.cache
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\obj\Debug\AutomaticMigrationFalse.exe
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\obj\Debug\AutomaticMigrationFalse.pdb
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\obj\Debug\AutomaticMigrationFalse.Migrations.CreateTables.resources
+D:\EntityFramework Apps\AutomaticMigrationFalse\AutomaticMigrationFalse\obj\Debug\AutomaticMigrationFalse.csproj.GenerateResource.Cache
